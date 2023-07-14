@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(101, 160, 232);
+}
+
+button{
+    width: 10%;
+    background-color: #fff;
+    color: black;
+    border-radius: 7px;
+}
+
+p{
+    font-size: 1.3rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #fff;
+}
